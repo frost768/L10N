@@ -66,7 +66,7 @@
 "landing_btn_facebook" = "通过 Facebook 登录";
 "landing_btn_google" = "通过 Google 登录";
 "landing_btn_email" = "通过 Email 注册";
-"landing_btn_email_log_in" = "通过 Email 登录";
+"landing_btn_email_log_in" = "通过 Email 或用户名登录";
 "landing_btn_phone" = "通过手机号登录";
 "landing_btn_log_in_tip" = "已经有账号了？ 登录";
 "landing_btn_more" = "更多";

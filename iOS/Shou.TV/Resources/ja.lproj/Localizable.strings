@@ -58,7 +58,7 @@
 "landing_btn_facebook" = "Facebookで登録";
 "landing_btn_google" = "Googleで登録";
 "landing_btn_email" = "Emailでログイン";
-"landing_btn_email_log_in" = "Emailで登録";
+"landing_btn_email_log_in" = "Emailかアカウントで登録";
 "landing_btn_phone" = "携帯番号で登録";
 "landing_btn_log_in_tip" = "Have an Account? Log in";
 "landing_btn_more" = "その他";
