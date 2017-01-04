@@ -29,7 +29,6 @@
     <string name="activity_landing_btn_sign_up">التسجيل</string>
     <string name="activity_landing_btn_sign_in">تسجيل الدخول</string>
     <string name="activity_landing_sign_in">لديك حساب؟ سجل الدخول</string>
-    <string name="activity_landing_email">سجل عن طريق البريد الإلكتروني</string>
     <string name="activity_landing_google">واصل مع جوجول</string>
     <string name="activity_landing_facebook">واصل مع فيسبوك</string>
     <string name="activity_landing_twitter">واصل مع تويتر</string>

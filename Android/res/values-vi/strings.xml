@@ -28,7 +28,6 @@
     <string name="activity_landing_btn_sign_up">Đăng ký</string>
     <string name="activity_landing_btn_sign_in">Đăng nhập</string>
     <string name="activity_landing_sign_in">Đã có tài khoản? Đăng nhập</string>
-    <string name="activity_landing_email">Đăng ký với Email</string>
     <string name="activity_landing_google">Tiếp tục với Google</string>
     <string name="activity_landing_facebook">Tiếp tục với Facebook</string>
     <string name="activity_landing_twitter">Tiếp tục với Twitter</string>

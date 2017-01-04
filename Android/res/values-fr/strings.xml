@@ -53,7 +53,6 @@
     <string name="activity_landing_btn_sign_up">S\'inscrire</string>
     <string name="activity_landing_btn_sign_in">Se connecter</string>
     <string name="activity_landing_sign_in">Avez-vous déjà un compte? Se connecter</string>
-    <string name="activity_landing_email">S\'inscrire par Email</string>
     <string name="activity_landing_google">Continuer avec Google</string>
     <string name="activity_landing_facebook">Continuer avec Facebook</string>
     <string name="activity_landing_twitter">Continuer avec Twitter</string>

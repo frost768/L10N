@@ -28,7 +28,6 @@
     <string name="activity_landing_btn_sign_up">สมัคร</string>
     <string name="activity_landing_btn_sign_in">ลงชื่อเข้าใช้</string>
     <string name="activity_landing_sign_in">มีบัญชีแล้ว? ลงชื่อเข้าใช้</string>
-    <string name="activity_landing_email">สมัครด้วยอีเมล์</string>
     <string name="activity_landing_google">ดำเนินการต่อด้วย Google</string>
     <string name="activity_landing_facebook">ดำเนินการต่อด้วย Facebook</string>
     <string name="activity_landing_twitter">ดำเนินการต่อด้วย Twitter</string>
