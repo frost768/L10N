@@ -309,12 +309,6 @@
 
 "spotlight_content" = "Voyez %@ LIVE sur Shou";
 
-"notification_push_live" = "👾 %@ live %@";
-"notification_push_follow" = "💞 %@ vous ont suivi";
-"notification_push_share" = "💬 %@ vous demande de voir %@";
-"notification_push_like" = "❤️ %@ aime votre live";
-"notification_push_message" = "💬 %@: %@";
-
 "rate_not_interested" = "Pas d'intérêt";
 "rate_title" = "nous sommes heureux que vous êtes herueux";
 "rate_tip" = "Notez notre appli? Tap a star to rate.";
@@ -323,3 +317,8 @@
 
 "activity_screen_streaming_retry" = "Réessayer";
 "activity_network_error" = "Erreur de connexion ~";
+
+"alert-loc-key-live" = "👾 %@ live %@";
+"alert-loc-key-follow" = "💞 %@ vous ont suivi";
+"alert-loc-key-share" = "💬 %@ vous demande de voir %@";
+"alert-loc-key-like" = "❤️ %@ aime votre live";

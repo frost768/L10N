@@ -326,12 +326,6 @@
 
 "spotlight_content" = "Shou'da CANLI olarak %@ izleyin";
 
-"notification_push_live" = "👾 %@ canlı yayın yapıyor %@";
-"notification_push_follow" = "💞 %@ seni takip etti";
-"notification_push_share" = "💬 %@ ,%@ izlemeni istiyor";
-"notification_push_like" = "❤️ %@ yayınını beğendi";
-"notification_push_message" = "💬 %@: %@";
-
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
 "notification_permission_enable" = "Bildirimleri Etkinleştir";
@@ -356,3 +350,8 @@
 
 "broadcasts_time_remaining" = "%@ saat kaldı";
 "broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
+
+"alert-loc-key-live" = "👾 %@ canlı yayın yapıyor %@";
+"alert-loc-key-follow" = "💞 %@ seni takip etti";
+"alert-loc-key-share" = "💬 %@ ,%@ izlemeni istiyor";
+"alert-loc-key-like" = "❤️ %@ yayınını beğendi";

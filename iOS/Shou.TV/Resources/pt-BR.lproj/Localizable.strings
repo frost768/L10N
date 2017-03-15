@@ -286,10 +286,12 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
-"notification_push_live" = "👾 %@ está transmitindo %@";
-"notification_push_follow" = "💞 %@ seguiram você";
-"notification_push_share" = "💬 %@ want you to watch %@";
-"notification_push_like" = "❤️ %@ gostaram da sua transmissão";
-
 "activity_screen_streaming_retry" = "Tentar novamente";
 "activity_network_error" = "Erro na conexão com a rede ~";
+
+
+"alert-loc-key-live" = "👾 %@ está transmitindo %@";
+"alert-loc-key-follow" = "💞 %@ seguiram você";
+"alert-loc-key-share" = "💬 %@ want you to watch %@";
+"alert-loc-key-like" = "❤️ %@ gostaram da sua transmissão";
+
