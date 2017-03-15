@@ -245,9 +245,16 @@
 
 "broadcast_guide_tips" = "我们支持以下这些游戏直播，很快有更多游戏支持！";
 
+"setting_notificaion_sound" = "声音";
+"setting_notificaion_follow" = "新粉丝";
+"setting_notificaion_like" = "喜欢";
+"setting_notificaion_message" = "私信";
+"setting_notificaion_broadcast" = "新直播";
+
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
+"about_title_notifications" = "消息通知";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
 "about_summary_website" = "Shou.TV";
@@ -329,6 +336,8 @@
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
 "notification_reply" = "回复";
+"notification_setting_succeeded" = "已保存消息通知设置";
+"notification_setting_failed" = "保存消息通知设置失败，请稍后重试";
 
 "rate_not_interested" = "残忍的拒绝";
 "rate_title" = "你开心我们快乐";
