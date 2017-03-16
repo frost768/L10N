@@ -332,6 +332,10 @@
 "share_to_twitter" = "%@ 正在 #Shou 直播: %@ %@";
 "spotlight_content" = "在 Shou 观看 %@ 的直播";
 
+"notification_push_live" = "👾 %@ 正在直播 %@";
+"notification_push_follow" = "💞 %@ 现在是您的新粉丝";
+"notification_push_share" = "💬 %@ 邀您一起看直播 %@";
+"notification_push_like" = "❤️ %@ 为您的直播点了一个赞";
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
@@ -362,8 +366,3 @@
 
 "badge_claim_reward" = "获得 %d 个免费的金币";
 "badge_claim_reward_success_message" = "你获得了 %d 个金币！";
-
-"alert-loc-key-live" = "👾 %@ 正在直播 %@";
-"alert-loc-key-follow" = "💞 %@ 现在是您的新粉丝";
-"alert-loc-key-share" = "💬 %@ 邀您一起看直播 %@";
-"alert-loc-key-like" = "❤️ %@ 为您的直播点了一个赞";

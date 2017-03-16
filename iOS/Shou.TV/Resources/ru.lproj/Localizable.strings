@@ -324,6 +324,12 @@
 
 "spotlight_content" = "Смотреть трансляцию «%@» на Shou";
 
+
+"notification_push_live" = "👾 %@ начал трансляцию «%@»";
+"notification_push_follow" = "💞 %@ подписался на вас";
+"notification_push_share" = "💬 %@ поделился с вами трансляцией «%@»";
+"notification_push_like" = "❤️ %@ понравилась ваша трансляция";
+"notification_push_message" = "💬 %@: %@";
 "notification_reply" = "Ответить";
 
 
@@ -335,8 +341,3 @@
 
 "activity_screen_streaming_retry" = "Повторить";
 "activity_network_error" = "Ошибка подключения к сети ~";
-
-"alert-loc-key-live" = "👾 %@ начал трансляцию «%@»";
-"alert-loc-key-follow" = "💞 %@ подписался на вас";
-"alert-loc-key-share" = "💬 %@ поделился с вами трансляцией «%@»";
-"alert-loc-key-like" = "❤️ %@ понравилась ваша трансляция";

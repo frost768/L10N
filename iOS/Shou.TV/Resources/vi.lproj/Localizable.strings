@@ -291,6 +291,12 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
+"notification_push_live" = "👾 %@ đang phát sóng %@";
+"notification_push_follow" = "💞 %@ đã theo dõi bạn";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ thích phát sóng của bạn";
+"notification_push_message" = "💬 %@: %@";
+
 "rate_not_interested" = "Không quan tâm";
 "rate_title" = "Chúng tôi vui bạn vui";
 "rate_tip" = "Bạn thích ứng dụng của chúng tôi chứ?";
@@ -299,8 +305,3 @@
 
 "activity_screen_streaming_retry" = "Thử lại";
 "activity_network_error" = "Lỗi kết nối mạng ~";
-
-"alert-loc-key-live" = "👾 %@ đang phát sóng %@";
-"alert-loc-key-follow" = "💞 %@ đã theo dõi bạn";
-"alert-loc-key-share" = "💬 %@ want you to watch %@";
-"alert-loc-key-like" = "❤️ %@ thích phát sóng của bạn";

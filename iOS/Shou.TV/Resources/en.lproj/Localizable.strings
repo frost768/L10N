@@ -334,6 +334,11 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
+"notification_push_live" = "👾 %@ is broadcasting %@";
+"notification_push_follow" = "💞 %@ followed you";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ liked your broadcast";
+"notification_push_message" = "💬 %@: %@";
 "notification_permission_tips" = "Enable notifications to get notified whenever your favorite broadcaster goes LIVE";
 "notification_permission_cancel" = "Not now";
 "notification_permission_enable" = "Enable Notifications";
@@ -363,9 +368,3 @@
 
 "badge_claim_reward" = "Get %d free coins";
 "badge_claim_reward_success_message" = "You've got %d coins!";
-
-"alert-loc-key-live" = "👾 %@ is broadcasting %@";
-"alert-loc-key-follow" = "💞 %@ followed you";
-"alert-loc-key-share" = "💬 %@ want you to watch %@";
-"alert-loc-key-like" = "❤️ %@ liked your broadcast";
-"alert-loc-key-message" = "💬 %@: %@";
