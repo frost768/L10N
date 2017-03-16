@@ -176,6 +176,7 @@
 "account_broadcast" = "直播";
 "account_support" = "支持";
 "account_about" = "关于";
+"account_dialog_title_logout" = "确定要退出登录吗？";
 
 "video_player_welcome" = "欢迎来到我的聊天室！";
 "video_player_quality" = "清晰度";

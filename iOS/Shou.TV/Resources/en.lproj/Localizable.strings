@@ -178,6 +178,7 @@
 "account_broadcast" = "BROADCAST";
 "account_support" = "SUPPORT";
 "account_about" = "ABOUT";
+"account_dialog_title_logout" = "Do you want to log out?";
 
 "video_player_welcome" = "Welcome to the chat room!";
 "video_player_quality" = "Quality";
