@@ -367,3 +367,11 @@
 
 "badge_claim_reward" = "获得 %d 个免费的金币";
 "badge_claim_reward_success_message" = "你获得了 %d 个金币！";
+
+"moment_import_title" = "选择一个游戏视频";
+"moment_edit_title" = "编辑";
+"moment_upload_failed" = "上传失败，请稍后重试。";
+"moment_upload_timeout" = "上传超时，请稍后重试。";
+"moment_upload_success" = "上传成功";
+"moment_upload_progress" = "上传中...";
+"moment_upload_preparing" = "正在剪切...";

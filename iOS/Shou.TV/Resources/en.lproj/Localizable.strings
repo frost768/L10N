@@ -369,3 +369,11 @@
 
 "badge_claim_reward" = "Get %d free coins";
 "badge_claim_reward_success_message" = "You've got %d coins!";
+
+"moment_import_title" = "Choose a game video";
+"moment_edit_title" = "Edit";
+"moment_upload_failed" = "Failed to upload video, please try again.";
+"moment_upload_timeout" = "Upload video timed out, please try again.";
+"moment_upload_success" = "Upload video successfully";
+"moment_upload_progress" = "Uploading...";
+"moment_upload_preparing" = "Preparing...";
