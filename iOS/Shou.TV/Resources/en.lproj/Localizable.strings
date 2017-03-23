@@ -181,6 +181,7 @@
 "account_alert_edit_username_title" = "Confirm change username?";
 "account_alert_edit_fullname_title" = "Confirm change fullname?";
 "account_alert_edit_name_message" = "Changing your name will lose your verification";
+"account_dialog_title_logout" = "Do you want to log out?";
 
 "video_player_welcome" = "Welcome to the chat room!";
 "video_player_quality" = "Quality";
@@ -249,9 +250,16 @@
 
 "broadcast_guide_tips" = "Now we support ReplayKit LIVE, you can broadcast LIVE directly just from the games below. More games support coming soon!";
 
+"setting_notificaion_sound" = "Notification Sound";
+"setting_notificaion_follow" = "Follow Notification";
+"setting_notificaion_like" = "Like Notification";
+"setting_notificaion_message" = "Message Notifcation";
+"setting_notificaion_broadcast" = "Broadcast Notification";
+
 "about_title" = "About";
 "about_title_help" = "Help Center";
 "about_title_faq" = "FAQ";
+"about_title_notifications" = "Notifications";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
 "about_summary_website" = "Shou.TV";
@@ -339,6 +347,8 @@
 "notification_permission_cancel" = "Not now";
 "notification_permission_enable" = "Enable Notifications";
 "notification_reply" = "Reply";
+"notification_setting_succeeded" = "Save notification settings successfully";
+"notification_setting_failed" = "Failed to save notification settings";
 
 "rate_not_interested" = "Not interested";
 "rate_title" = "We're happy you're happy";
@@ -362,3 +372,11 @@
 
 "badge_claim_reward" = "Get %d free coins";
 "badge_claim_reward_success_message" = "You've got %d coins!";
+
+"moment_import_title" = "Choose a game video";
+"moment_edit_title" = "Edit";
+"moment_upload_failed" = "Failed to upload video, please try again.";
+"moment_upload_timeout" = "Upload video timed out, please try again.";
+"moment_upload_success" = "Upload video successfully";
+"moment_upload_progress" = "Uploading...";
+"moment_upload_preparing" = "Preparing...";

@@ -179,6 +179,7 @@
 "account_alert_edit_username_title" = "确认修改用户名？";
 "account_alert_edit_fullname_title" = "确认修改昵称？";
 "account_alert_edit_name_message" = "修改后将失去认证";
+"account_dialog_title_logout" = "确定要退出登录吗？";
 
 "video_player_welcome" = "欢迎来到我的聊天室！";
 "video_player_quality" = "清晰度";
@@ -248,9 +249,16 @@
 
 "broadcast_guide_tips" = "我们支持以下这些游戏直播，很快有更多游戏支持！";
 
+"setting_notificaion_sound" = "声音";
+"setting_notificaion_follow" = "新粉丝";
+"setting_notificaion_like" = "喜欢";
+"setting_notificaion_message" = "私信";
+"setting_notificaion_broadcast" = "新直播";
+
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
+"about_title_notifications" = "消息通知";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
 "about_summary_website" = "Shou.TV";
@@ -336,6 +344,8 @@
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
 "notification_reply" = "回复";
+"notification_setting_succeeded" = "已保存消息通知设置";
+"notification_setting_failed" = "保存消息通知设置失败，请稍后重试";
 
 "rate_not_interested" = "残忍的拒绝";
 "rate_title" = "你开心我们快乐";
@@ -360,3 +370,11 @@
 
 "badge_claim_reward" = "获得 %d 个免费的金币";
 "badge_claim_reward_success_message" = "你获得了 %d 个金币！";
+
+"moment_import_title" = "选择一个游戏视频";
+"moment_edit_title" = "编辑";
+"moment_upload_failed" = "上传失败，请稍后重试。";
+"moment_upload_timeout" = "上传超时，请稍后重试。";
+"moment_upload_success" = "上传成功";
+"moment_upload_progress" = "上传中...";
+"moment_upload_preparing" = "正在剪切...";
