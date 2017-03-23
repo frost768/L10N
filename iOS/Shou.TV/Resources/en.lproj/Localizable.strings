@@ -178,8 +178,6 @@
 "account_broadcast" = "BROADCAST";
 "account_support" = "SUPPORT";
 "account_about" = "ABOUT";
-"account_alert_edit_username_title" = "Confirm change username?";
-"account_alert_edit_fullname_title" = "Confirm change fullname?";
 "account_alert_edit_name_message" = "Changing your name will lose your verification";
 "account_dialog_title_logout" = "Do you want to log out?";
 
