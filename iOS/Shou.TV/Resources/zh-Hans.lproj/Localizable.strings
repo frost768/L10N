@@ -176,6 +176,9 @@
 "account_broadcast" = "直播";
 "account_support" = "支持";
 "account_about" = "关于";
+"account_alert_edit_username_title" = "确认修改用户名？";
+"account_alert_edit_fullname_title" = "确认修改昵称？";
+"account_alert_edit_name_message" = "修改后将失去认证";
 "account_dialog_title_logout" = "确定要退出登录吗？";
 
 "video_player_welcome" = "欢迎来到我的聊天室！";
