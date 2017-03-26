@@ -338,6 +338,9 @@
 "notification_push_follow" = "💞 %@ 現在是您的新粉絲";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";
 "notification_push_like" = "❤️ %@ 讚了您的直播";
+"notification_push_moment_upload" = "🔥 %@ 上傳了一個新的影片";
+"notification_push_moment_like" = "❤️ %@ 讃了您的影片";
+
 "notification_permission_tips" = "允許收到您喜歡的主播開始直播的通知";
 "notification_permission_cancel" = "暫不";
 "notification_permission_enable" = "允許通知";
@@ -370,6 +373,7 @@
 
 "moment_import_title" = "選擇一個遊戲視頻";
 "moment_edit_title" = "編輯";
+"moment_file_unavailable" = "視頻有問題，請嘗試選擇其他遊戲視頻。";
 "moment_upload_failed" = "上傳失敗，請稍後重試。";
 "moment_upload_timeout" = "上傳超時，請稍後重試。";
 "moment_upload_success" = "上傳成功";
