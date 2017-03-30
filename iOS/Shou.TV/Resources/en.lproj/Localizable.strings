@@ -336,7 +336,7 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
-"notification_push_live" = "👾 %@ is broadcasting %@";
+"notification_push_live" = "🔥 %@ is broadcasting %@";
 "notification_push_follow" = "💞 %@ followed you";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ liked your broadcast";

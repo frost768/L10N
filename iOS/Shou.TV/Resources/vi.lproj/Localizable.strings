@@ -291,7 +291,7 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
-"notification_push_live" = "👾 %@ đang phát sóng %@";
+"notification_push_live" = "🔥 %@ đang phát sóng %@";
 "notification_push_follow" = "💞 %@ đã theo dõi bạn";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ thích phát sóng của bạn";

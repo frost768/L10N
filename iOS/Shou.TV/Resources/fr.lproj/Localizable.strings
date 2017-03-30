@@ -309,7 +309,7 @@
 
 "spotlight_content" = "Voyez %@ LIVE sur Shou";
 
-"notification_push_live" = "👾 %@ live %@";
+"notification_push_live" = "🔥 %@ live %@";
 "notification_push_follow" = "💞 %@ vous ont suivi";
 "notification_push_share" = "💬 %@ vous demande de voir %@";
 "notification_push_like" = "❤️ %@ aime votre live";

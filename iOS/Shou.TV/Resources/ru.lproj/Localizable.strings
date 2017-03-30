@@ -325,7 +325,7 @@
 "spotlight_content" = "Смотреть трансляцию «%@» на Shou";
 
 
-"notification_push_live" = "👾 %@ начал трансляцию «%@»";
+"notification_push_live" = "🔥 %@ начал трансляцию «%@»";
 "notification_push_follow" = "💞 %@ подписался на вас";
 "notification_push_share" = "💬 %@ поделился с вами трансляцией «%@»";
 "notification_push_like" = "❤️ %@ понравилась ваша трансляция";

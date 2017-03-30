@@ -326,7 +326,7 @@
 
 "spotlight_content" = "Shou'da CANLI olarak %@ izleyin";
 
-"notification_push_live" = "👾 %@ canlı yayın yapıyor %@";
+"notification_push_live" = "🔥 %@ canlı yayın yapıyor %@";
 "notification_push_follow" = "💞 %@ seni takip etti";
 "notification_push_share" = "💬 %@ ,%@ izlemeni istiyor";
 "notification_push_like" = "❤️ %@ yayınını beğendi";
@@ -336,7 +336,7 @@
 "notification_permission_cancel" = "Şimdi Değil";
 "notification_permission_enable" = "Bildirimleri Etkinleştir";
 "notification_reply" = "Cevapla";
- 
+
 "rate_not_interested" = "İlgilenmiyorum";
 "rate_title" = "Memnun olduğunuza sevindik";
 "rate_tip" = "Uygulamamızı nasıl buldunuz? Bir yıldıza basarak değerlendirin.";

@@ -288,7 +288,7 @@
 "share_to_successed" = "シェアに成功しました!";
 "share_no_found_mutual" = "相互フォローしているユーザーが見つかりませんでした";
 
-"notification_push_live" = "👾 %@は%@をブロードキャストしています";
+"notification_push_live" = "🔥 %@は%@をブロードキャストしています";
 "notification_push_follow" = "💞 があなたをフォローしました";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@人が、あなたのブロードキャストを、好きと評価しています。";
