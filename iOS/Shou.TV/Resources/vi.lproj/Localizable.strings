@@ -296,6 +296,8 @@
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ thích phát sóng của bạn";
 "notification_push_message" = "💬 %@: %@";
+"notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
+"notification_push_moment_like" = "❤️ %@ liked your moment";
 
 "rate_not_interested" = "Không quan tâm";
 "rate_title" = "Chúng tôi vui bạn vui";

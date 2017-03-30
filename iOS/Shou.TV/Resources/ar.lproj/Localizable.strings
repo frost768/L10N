@@ -311,6 +311,8 @@
 "notification_push_share" = "💬 %@ يريدك أن تشاهد %@";
 "notification_push_like" = "❤️ %@ أعجب بالبث الخاص بك";
 "notification_push_message" = "💬 %@: %@";
+"notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
+"notification_push_moment_like" = "❤️ %@ liked your moment";
 
 "rate_not_interested" = "لست مهتما";
 "rate_title" = "نحن سعداء لكونك سعيدا";

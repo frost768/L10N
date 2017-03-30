@@ -290,6 +290,9 @@
 "notification_push_follow" = "💞 %@ seguiram você";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ gostaram da sua transmissão";
+"notification_push_message" = "💬 %@: %@";
+"notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
+"notification_push_moment_like" = "❤️ %@ liked your moment";
 
 "activity_screen_streaming_retry" = "Tentar novamente";
 "activity_network_error" = "Erro na conexão com a rede ~";

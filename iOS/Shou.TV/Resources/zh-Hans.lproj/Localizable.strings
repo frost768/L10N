@@ -338,6 +338,7 @@
 "notification_push_follow" = "💞 %@ 现在是您的新粉丝";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";
 "notification_push_like" = "❤️ %@ 为您的直播点了一个赞";
+"notification_push_message" = "💬 %@: %@";
 "notification_push_moment_upload" = "🔥 %@ 上传了一个新的视频";
 "notification_push_moment_like" = "❤️ %@ 为您的视频点了一个赞";
 

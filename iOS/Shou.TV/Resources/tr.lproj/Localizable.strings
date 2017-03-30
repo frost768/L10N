@@ -331,6 +331,8 @@
 "notification_push_share" = "💬 %@ ,%@ izlemeni istiyor";
 "notification_push_like" = "❤️ %@ yayınını beğendi";
 "notification_push_message" = "💬 %@: %@";
+"notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
+"notification_push_moment_like" = "❤️ %@ liked your moment";
 
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
