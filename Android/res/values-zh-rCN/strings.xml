@@ -461,6 +461,10 @@
     <string name="profile_title_gems">宝石</string>
     <string name="activity_landing_phone">使用手机号登录</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">使用手机号登录失败 :(</string>
+    <string name="pref_title_settings_save">保存</string>
+    <string name="pref_title_settings_saving">保存中&#8230;</string>
+    <string name="pref_title_settings_save_fail">保存推送设置失败</string>
+    <string name="pref_title_settings_save_success">保存推送设置成功</string>
     <string name="pref_title_category_account">账户</string>
     <string name="pref_title_account_edit_profile">编辑个人资料</string>
     <string name="pref_title_account_coins">金币</string>
