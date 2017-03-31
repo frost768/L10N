@@ -136,16 +136,10 @@
     <string name="root_access_link">ما هو الجذر؟</string>
     <string name="no_capture_screen_permission">مطلوب تصريح لالتقاط الشاشة</string>
     <string name="get_capture_screen_permission">الحصول على تصريح</string>
-    <string name="notification_push_text_big_title">%s رسائل جديدة</string>
     <string name="notification_push_live_multi_title">%1$s يبث %2$s</string>
-    <string name="notification_push_live_big_title">%s لاعبين يقومون بالبث</string>
     <string name="notification_push_follow_multi_title">%s يتابعونك</string>
-    <string name="notification_push_follow_big_title">%s متابعين</string>
     <string name="notification_push_like_multi_title">%s أعجب بالبث الخاص بك</string>
-    <string name="notification_push_like_big_title">%s إعجابات</string>
-    <string name="notification_push_cash_big_content">%1$s %2$s تبرع %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s أرسل إليك بث بواسطة %2$s</string>
-    <string name="notification_push_share_cast_big_title">%s عمليات بث يشاركها الأصدقاء</string>
     <string name="notification_push_follow_multi_title_me">قمت بمتابعة %s</string>
     <string name="notification_push_like_multi_title_me">أعجبت بالبث الخاص بـ %s</string>
     <string name="msg_buy_shou_cash">شراء</string>

@@ -137,16 +137,10 @@
     <string name="no_capture_screen_permission">Cần cho phép chụp màn hình</string>
     <string name="get_capture_screen_permission">Xin phép</string>
     <string name="notification_push_text_multi_title">%1$s: %2$s</string>
-    <string name="notification_push_text_big_title">%s tin nhắn mới</string>
     <string name="notification_push_live_multi_title">%1$s đang phát sóng %2$s</string>
-    <string name="notification_push_live_big_title">%s người chơi đang phát sóng</string>
     <string name="notification_push_follow_multi_title">%s đã theo dõi bạn</string>
-    <string name="notification_push_follow_big_title">%s người theo dõi</string>
     <string name="notification_push_like_multi_title">%s thích phát sóng của bạn</string>
-    <string name="notification_push_like_big_title">%s thích</string>
-    <string name="notification_push_cash_big_content">%1$s %2$s đã tặng %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s gửi cho bạn một phát sóng bởi %2$s</string>
-    <string name="notification_push_share_cast_big_title">%s chương trình phát sóng từ bạn bè đang chia sẻ</string>
     <string name="notification_push_follow_multi_title_me">Bạn đã theo dõi %s</string>
     <string name="notification_push_like_multi_title_me">Bạn thích chương trình phát sóng của %s</string>
     <string name="msg_buy_shou_cash">Mua</string>
