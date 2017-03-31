@@ -321,12 +321,8 @@
     <string name="msg_description_reward">Ödüllendir</string>
     <string name="pref_title_category_notification">Bildirimler</string>
     <string name="pref_summary_category_notification">Bildirimler AÇIK</string>
-    <string name="pref_title_notifications_vibrate">Titreşim</string>
-    <string name="pref_summary_notifications_vibrate">Gelen bildirimlerde titreştir</string>
     <string name="pref_title_notifications_ringthone">Bildirim Sesi</string>
     <string name="pref_summary_notifications_ringthone">Bildirim geldiğinde ses ile uyar</string>
-    <string name="pref_title_notifications_notification_light">Bildirim Işığı</string>
-    <string name="pref_summary_notifications_notification_light">Bildirim geldiğinde tuş arka ışığı ya da LED ile bildir</string>
     <string name="pref_title_notifications_new_followers">Yeni takipçiler</string>
     <string name="pref_title_notifications_likes">Yeni beğeniler</string>
     <string name="pref_title_notifications_new_broadcasts">Yeni yayınlar</string>

@@ -270,12 +270,8 @@
     <string name="msg_description_reward">Подарить</string>
     <string name="pref_title_category_notification">Уведомления</string>
     <string name="pref_summary_category_notification">Уведомления включены</string>
-    <string name="pref_title_notifications_vibrate">Вибрация</string>
-    <string name="pref_summary_notifications_vibrate">Вибрация для новых уведомлений</string>
     <string name="pref_title_notifications_ringthone">Звук</string>
     <string name="pref_summary_notifications_ringthone">Выберите свой звук для уведомлений</string>
-    <string name="pref_title_notifications_notification_light">Свет</string>
-    <string name="pref_summary_notifications_notification_light">Импульсный свет для новых уведомлений</string>
     <string name="pref_title_notifications_new_followers">Новые подписчики</string>
     <string name="pref_title_notifications_likes">Новые отметки «Нравится»</string>
     <string name="pref_title_notifications_new_broadcasts">Новые трансляции</string>

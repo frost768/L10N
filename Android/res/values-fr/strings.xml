@@ -315,12 +315,8 @@
     <string name="msg_description_reward">Encourager</string>
     <string name="pref_title_category_notification">Notifications</string>
     <string name="pref_summary_category_notification">Pousser notifications</string>
-    <string name="pref_title_notifications_vibrate">Vibrer</string>
-    <string name="pref_summary_notifications_vibrate">Vibrer en recevant des notifications de revenue</string>
     <string name="pref_title_notifications_ringthone">Sonner</string>
     <string name="pref_summary_notifications_ringthone">Sonner en recevant des notifications</string>
-    <string name="pref_title_notifications_notification_light">Allumer</string>
-    <string name="pref_summary_notifications_notification_light">Allumer en recevant des notifications</string>
     <string name="pref_title_notifications_new_followers">Nouveau abonné</string>
     <string name="pref_title_notifications_likes">Nouveau aime</string>
     <string name="pref_title_notifications_new_broadcasts">Nouveau live</string>

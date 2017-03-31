@@ -284,12 +284,8 @@
     <string name="msg_description_reward">賞品</string>
     <string name="pref_title_category_notification">お知らせ</string>
     <string name="pref_summary_category_notification">プッシュ通知</string>
-    <string name="pref_title_notifications_vibrate">バイブレーション</string>
-    <string name="pref_summary_notifications_vibrate">着信通知にバイブさせる</string>
     <string name="pref_title_notifications_ringthone">着メロ</string>
     <string name="pref_summary_notifications_ringthone">通知音を設定してください</string>
-    <string name="pref_title_notifications_notification_light">通知ライト</string>
-    <string name="pref_summary_notifications_notification_light">通知用のパルスライト</string>
     <string name="pref_title_notifications_new_followers">新規フォロワー</string>
     <string name="pref_title_notifications_likes">新規いいね！</string>
     <string name="pref_title_notifications_new_broadcasts">新規ブロードキャスト</string>
