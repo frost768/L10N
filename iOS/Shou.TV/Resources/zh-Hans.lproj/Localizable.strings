@@ -252,6 +252,7 @@
 "setting_notificaion_like" = "喜欢";
 "setting_notificaion_message" = "私信";
 "setting_notificaion_broadcast" = "新直播";
+"setting_notificaion_moment" = "新视频";
 
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
