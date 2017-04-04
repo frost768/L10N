@@ -305,7 +305,7 @@
     <string name="notification_push_like_multi_title_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_cash_content_me">%s Coin bağış yaptın</string>
-    <string name="fragment_dialog_shoucash_generating">Coinler Oluşturuluyor...</string>
+    <string name="fragment_dialog_shoucash_generating">Coinler oluşturuluyor...</string>
     <string name="send_cash_info">Coin Nedir?</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
@@ -402,6 +402,8 @@
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
     <string name="fragment_share_bottom_title">Paylaş...</string>
     <string name="fragment_share_bottom_cancel">İptal</string>
+    <string name="fragment_share_bottom_share_twitter_title" translatable="false">Twitter</string>
+    <string name="fragment_share_bottom_share_fb_title" translatable="false">Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">Birbirinizi takip ettiğiniz bir kişi bulunamadı</string>
     <string name="activity_screen_live_public_broadcast_hint">Yayınınızı herkes görecektir</string>
     <string name="activity_screen_live_private_broadcast_hint">Özel olarak paylaşılacaktır</string>
@@ -458,6 +460,10 @@
     <string name="profile_title_gems">Mücevher</string>
     <string name="activity_landing_phone">Telefon numarası ile devam edin</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">Telefon numarası ile giriş yapılamadı:(</string>
+    <string name="pref_title_settings_save">Kaydet</string>
+    <string name="pref_title_settings_saving">Kaydediliyor&#8230;</string>
+    <string name="pref_title_settings_save_fail">Bildirim ayarları kaydedilemedi</string>
+    <string name="pref_title_settings_save_success">Bildirim ayarları başarıyla kaydedildi</string>
     <string name="pref_title_category_account">Hesap</string>
     <string name="pref_title_account_edit_profile">Profili Düzenle</string>
     <string name="pref_title_account_coins">Coin</string>
@@ -510,4 +516,5 @@
     <string name="toast_fyber_success">%d Coin kazandın!</string>
     <string name="toast_fyber_timeout">Coinler birkaç dakika içerisinde hesabınıza yüklenecektir.</string>
     <string name="toast_fyber_failure">Reklam gösterilemedi.</string>
+    <string name="activity_account_modify_username_lose_verify">İsminizi değiştirirseniz hesabınız doğruluğunu yitirecektir</string>
 </resources>

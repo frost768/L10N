@@ -40,7 +40,7 @@
 "no_games" = "Gösterilecek oyun yok";
 "no_following" = "Takip edilen yok";
 "no_follower" = "Takipçi yok";
-"search_no_peoples" = "Böyle birisi yok";
+"search_no_peoples" = "Böyle bir kullanıcı yok";
 "search_no_games" = "Böyle bir oyun yok";
 "search_no_videos" = "Böyle bir video yok";
 
@@ -53,10 +53,11 @@
 "profile_text_views" = "Görüntüleme";
 "profile_text_likes" = "Beğeni";
 "profile_text_gems" = "Mücevher";
-"profile_text_cash" = "Coins";
+"profile_text_cash" = "Coinler";
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_options" = "Ayarlar";
+"profile_text_badges" = "MADALYALAR";
 "profile_text_achievements" = "BAŞARILAR";
 "profile_text_top_followers" = "EN İYİ TAKİPÇİLER";
 
@@ -177,6 +178,8 @@
 "account_broadcast" = "CANLI YAYIN";
 "account_support" = "DESTEK";
 "account_about" = "HAKKINDA";
+"account_alert_edit_name_message" = "İsminizi değiştirirseniz hesabınız doğruluğunu yitirecektir";
+"account_dialog_title_logout" = "Çıkış yapmak istiyor musunuz?";
 
 "video_player_welcome" = "Sohbet odasına hoşgeldiniz!";
 "video_player_quality" = "Kalite";
@@ -245,10 +248,17 @@
 
 "broadcast_guide_tips" = "Artık ReplayKit LIVE'i destekliyoruz, doğrudan oyundan CANLI olarak yayın yapabileceksiniz. Yakında daha fazla oyunun desteği olacak!";
 
+"setting_notificaion_sound" = "Bildirim Sesi";
+"setting_notificaion_follow" = "Takip Bildirimi";
+"setting_notificaion_like" = "Beğeni Bildirimi";
+"setting_notificaion_message" = "Mesaj Bildirimi";
+"setting_notificaion_broadcast" = "Yayın Bildirimi";
+"setting_notificaion_moment" = "An Bildirimi";
+
 "about_title" = "Hakkında";
 "about_title_help" = "Yardım Merkezi";
 "about_title_faq" = "SSS";
-"about_summary_faq" = "Shou hakkında sıkça sorulan sorular";
+"about_summary_faq" = "Shou SSS";
 "about_title_website" = "Website";
 "about_summary_website" = "Shou.TV";
 "about_title_facebook" = "Facebook";
@@ -275,7 +285,7 @@
 "payment_button" = "Get Coins";
 "payment_help" = "What's the Coins?";
 "payment_tip" = "Yayıncıları desteklemek için bağış yapın 🎉";
-"payment_success" = "Satın alma başarılı! %@ Coins alındı, toplamda %@ Coins'iniz var";
+"payment_success" = "Satın alma başarılı! %@ Coin alındı, toplamda %@ Coin'iniz var";
 "payment_faild" = "Satın alma başarısız!";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";
 
@@ -331,13 +341,15 @@
 "notification_push_share" = "💬 %@ ,%@ izlemeni istiyor";
 "notification_push_like" = "❤️ %@ yayınını beğendi";
 "notification_push_message" = "💬 %@: %@";
-"notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
-"notification_push_moment_like" = "❤️ %@ liked your moment";
+"notification_push_moment_upload" = "🔥 %@ yeni bir an yükledi";
+"notification_push_moment_like" = "❤️ %@ anını beğendi";
 
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
 "notification_permission_enable" = "Bildirimleri Etkinleştir";
 "notification_reply" = "Cevapla";
+"notification_setting_succeeded" = "Bildirim ayarları başarıyla kaydedildi";
+"notification_setting_failed" = "Bildirim ayarları kaydedilemedi";
 
 "rate_not_interested" = "İlgilenmiyorum";
 "rate_title" = "Memnun olduğunuza sevindik";
@@ -358,3 +370,16 @@
 
 "broadcasts_time_remaining" = "%@ saat kaldı";
 "broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
+
+"badge_claim_reward" = "%d tane bedava coin edinin";
+"badge_claim_reward_success_message" = "%d coin'in oldu!";
+ 
+"moment_import_title" = "Bir oyun videosu seç";
+"moment_edit_title" = "Düzenle";
+"moment_file_unavailable" = "Video dosyası bozuk, lütfen farklı bir oyun videosu seçin.";
+"moment_upload_failed" = "Video karşıya yüklenemedi, lütfen tekrar deneyin.";
+"moment_upload_timeout" = "Video karşıya yüklenirken zaman aşımına uğradı, lütfen yekrar deneyin.";
+"moment_upload_success" = "Video başarıyla karşıya yüklendi";
+"moment_upload_progress" = "Karşıya yükleniyor...";
+"moment_upload_preparing" = "Hazırlanıyor...";
+"moments_title" = "Anlar";
