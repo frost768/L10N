@@ -320,6 +320,7 @@
 "message_like" = "%@ liked your broadcast";
 "message_follow_me" = "You followed %@";
 "message_follow" = "%@ followed you";
+"message_share_moment" = "%@ shared a moment with you";
 "message_new_placeholder" = "Write a message...";
 "message_notification_tip" = "🔔 Click to turn on push notifications";
 "message_from_following_all_marked_read" = "All following messages marked as read.";
@@ -334,6 +335,7 @@
 "share_to_successed" = "Share successfully!";
 "share_no_found_mutual" = "No found people you followed each other";
 "share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
+"share_moments_to_twitter" = "Watch %@ MOMENTS on #Shou: %@";
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
