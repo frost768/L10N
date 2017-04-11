@@ -258,6 +258,7 @@
 "about_title_help" = "說明中心";
 "about_title_faq" = "FAQ";
 "about_title_notifications" = "消息通知";
+"about_title_clear_cache" = "清除快取";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
 "about_summary_website" = "Shou.TV";
@@ -319,6 +320,7 @@
 "message_like" = "%@ 為您的影片按了一個讚";
 "message_follow_me" = "您現在成為 %@ 的粉絲";
 "message_follow" = "%@ 現在是您的粉絲";
+"message_share_moment" = "%@ 向您分享了一個影片";
 "message_new_placeholder" = "寫訊息...";
 "message_notification_tip" = "🔔 點擊打開推送通知";
 "message_from_following_all_marked_read" = "所有追蹤者訊息被標為已讀";
@@ -333,6 +335,7 @@
 "share_to_successed" = "分享成功!";
 "share_no_found_mutual" = "未找到與您互為追蹤的人";
 "share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
+"share_moments_to_twitter" = "%@ 在 #Shou 发布了视频: %@";
 "spotlight_content" = "在 Shou 觀看 %@ 的直播";
 
 "notification_push_live" = "🔥 %@ 正在直播 %@";
