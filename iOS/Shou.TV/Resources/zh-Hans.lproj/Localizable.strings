@@ -258,6 +258,7 @@
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
 "about_title_notifications" = "消息通知";
+"about_title_clear_cache" = "清理缓存";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
 "about_summary_website" = "Shou.TV";
