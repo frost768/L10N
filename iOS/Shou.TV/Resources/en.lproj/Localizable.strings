@@ -323,6 +323,7 @@
 "message_follow" = "%@ followed you";
 "message_share_moment" = "%@ shared a moment with you";
 "message_upload_moment" = "%@ uploaded a new moment";
+"message_like_moment" = "%@ liked your moment";
 "message_new_placeholder" = "Write a message...";
 "message_notification_tip" = "🔔 Click to turn on push notifications";
 "message_from_following_all_marked_read" = "All following messages marked as read.";
