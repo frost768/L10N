@@ -321,6 +321,7 @@
 "message_follow_me" = "您現在成為 %@ 的粉絲";
 "message_follow" = "%@ 現在是您的粉絲";
 "message_share_moment" = "%@ 向您分享了一個影片";
+"message_upload_moment" = "%@ 上傳了一個新的影片";
 "message_new_placeholder" = "寫訊息...";
 "message_notification_tip" = "🔔 點擊打開推送通知";
 "message_from_following_all_marked_read" = "所有追蹤者訊息被標為已讀";

@@ -321,6 +321,7 @@
 "message_follow_me" = "您现在成为 %@ 的粉丝";
 "message_follow" = "%@ 是您的新粉丝";
 "message_share_moment" = "%@ 分享给你一个视频";
+"message_upload_moment" = "%@ 上传了一个新的视频";
 "message_new_placeholder" = "发消息...";
 "message_notification_tip" = "🔔 点击打开推送通知";
 "message_from_following_all_marked_read" = "所有关注私信标记为已读";
