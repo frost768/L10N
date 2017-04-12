@@ -245,6 +245,7 @@
 "notification_push_message" = "💬 %@: %@";
 "notification_push_moment_upload" = "🔥 %@ uploaded a new moment";
 "notification_push_moment_like" = "❤️ %@ liked your moment";
+"notification_push_moment_share" = "💬 %@ shared a moment with you";
 
 "activity_screen_streaming_retry" = "재시도";
 "activity_network_error" = "인터넷 연결 문제";

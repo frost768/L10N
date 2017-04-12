@@ -346,6 +346,7 @@
 "notification_push_message" = "💬 %@: %@";
 "notification_push_moment_upload" = "🔥 %@ 上传了一个新的视频";
 "notification_push_moment_like" = "❤️ %@ 为您的视频点了一个赞";
+"notification_push_moment_share" = "💬 %@ 分享给你一个视频";
 
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
