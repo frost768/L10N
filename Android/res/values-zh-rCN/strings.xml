@@ -281,6 +281,7 @@
     <string name="video_report_playback">播放问题</string>
     <string name="video_report_cancel">取消</string>
     <string name="video_duration_placement">0:00</string>
+    <string name="video_gallery_no_video_text">没有找到视频</string>
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="no_capture_screen_permission">需要截取屏幕的权限</string>
