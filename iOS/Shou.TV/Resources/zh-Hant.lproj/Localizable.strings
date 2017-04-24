@@ -56,7 +56,6 @@
 "profile_text_games" = "遊戲";
 "profile_text_logout" = "登出";
 "profile_text_options" = "帳號設定";
-"profile_text_badges" = "徽章";
 "profile_text_achievements" = "成就";
 "profile_text_top_followers" = "粉絲榜";
 
@@ -375,9 +374,6 @@
 
 "broadcasts_time_remaining" = "剩餘 %@ 小時";
 "broadcasts_tips" = "📢 影片將在 24 小時後被刪除";
-
-"badge_claim_reward" = "取得 %d 個免費的金幣";
-"badge_claim_reward_success_message" = "你取得了 %d 個金幣！";
 
 "moment_import_title" = "選擇一個遊戲視頻";
 "moment_edit_title" = "編輯";

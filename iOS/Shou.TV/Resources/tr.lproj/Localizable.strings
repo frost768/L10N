@@ -57,7 +57,6 @@
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_options" = "Ayarlar";
-"profile_text_badges" = "MADALYALAR";
 "profile_text_achievements" = "BAŞARILAR";
 "profile_text_top_followers" = "EN İYİ TAKİPÇİLER";
 
@@ -377,9 +376,6 @@
 
 "broadcasts_time_remaining" = "%@ saat kaldı";
 "broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
-
-"badge_claim_reward" = "%d tane bedava coin edinin";
-"badge_claim_reward_success_message" = "%d coin'in oldu!";
 
 "moment_import_title" = "Bir oyun videosu seç";
 "moment_edit_title" = "Düzenle";
