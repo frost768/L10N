@@ -506,5 +506,7 @@
     <string name="activity_video_menu_copy">复制链接</string>
     <string name="activity_video_menu_delete">删除</string>
     <string name="activity_video_menu_cancel">取消</string>
+    <string name="activity_moment_title">视频</string>
+
 </resources>
 

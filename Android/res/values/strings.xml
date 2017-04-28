@@ -521,4 +521,6 @@
     <string name="activity_video_menu_copy">Copy Link</string>
     <string name="activity_video_menu_delete">Delete</string>
     <string name="activity_video_menu_cancel">Cancel</string>
+    <string name="activity_moment_title">MOMENTS</string>
+
 </resources>
