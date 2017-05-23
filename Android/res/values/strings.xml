@@ -306,6 +306,9 @@
     <string name="notification_push_like_multi_title_me">You liked %s\'s broadcast</string>
     <string name="notification_push_like_description_me">You liked %s\'s broadcast</string>
     <string name="notification_push_cash_content_me">You donated %s Coins</string>
+    <string name="notification_push_moment_like">liked your moment</string>
+    <string name="notification_push_moment_upload">uploaded a new moment</string>
+    <string name="notification_push_moment_shared">shared a moment with you</string>
     <string name="send_cash_info">What\'s the Coins?</string>
     <string name="msg_buy_shou_cash">Purchase</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play services resources were not found</string>
@@ -327,6 +330,7 @@
     <string name="pref_title_notifications_likes">New likes</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
     <string name="pref_title_notifications_text">New messages</string>
+    <string name="pref_title_notifications_moment">New moment</string>
     <string name="toast_settings_show_touches_unenable">Don\'t support Android 6.0+</string>
     <string name="toast_livefragment_screen_live_title">Please enter title</string>
     <string name="toast_livefragment_screen_live_game">Please select the game</string>
