@@ -258,6 +258,8 @@
 "about_title" = "Hakkında";
 "about_title_help" = "Yardım Merkezi";
 "about_title_faq" = "SSS";
+"about_title_notifications" = "Bildirimler";
+"about_title_clear_cache" = "Önbelleği Temizle";
 "about_summary_faq" = "Shou SSS";
 "about_title_website" = "Website";
 "about_summary_website" = "Shou.TV";
@@ -281,9 +283,9 @@
 "app_download" = "Yükle";
 "app_open" = "Aç";
 
-"payment_title" = "Coins";
-"payment_button" = "Get Coins";
-"payment_help" = "What's the Coins?";
+"payment_title" = "Coinler";
+"payment_button" = "Coin Al";
+"payment_help" = "Coin Nedir?";
 "payment_tip" = "Yayıncıları desteklemek için bağış yapın 🎉";
 "payment_success" = "Satın alma başarılı! %@ Coin alındı, toplamda %@ Coin'iniz var";
 "payment_faild" = "Satın alma başarısız!";
@@ -303,7 +305,7 @@
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
 "VIDEO_CAMERA_STREAMING_READY" = "Yayını Başlat";
-"VIDEO_CAMERA_STREAMING_STOP" = "Durdur";
+"VIDEO_CAMERA_STREAMING_STOP" = "Yayını Durdur";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Kamera izni alınamadı";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Mikrofon izni alınamadı";
 "msg_popup_mention" = "Cevap ver";
@@ -312,7 +314,6 @@
 "msg_popup_moderate_description" = "%@ artık bir moderatör.";
 "msg_popup_moderate_cancel_description" = "%@ moderatörünün yetkisi alındı.";
 
-
 "message_section_title_following" = "TAKİP EDİLEN";
 "message_section_title_strangers" = "YABANCILAR";
 "message_list_empty_placeholder" = "Gösterilecek mesaj yok.";
@@ -320,11 +321,15 @@
 "message_like" = "%@ yayınını beğendi";
 "message_follow_me" = "%@ oyuncusunu takip ettin";
 "message_follow" = "%@ seni takip etti";
+"message_share_moment" = "%@ seninle bir anını paylaştı";
+"message_upload_moment" = "%@ yeni bir an yükledi";
+"message_like_moment" = "%@ anını beğendi";
 "message_new_placeholder" = "Bir mesaj yaz...";
 "message_notification_tip" = "🔔 Anlık bildirimleri açmak için dokun";
 "message_from_following_all_marked_read" = "Tüm takip edilen mesajları okundu olarak işaretlendi.";
 "message_from_strangers_marked_read" = "Tüm yabancı mesajları okundu olarak işaretlendi.";
 "message_delete_tips" = "📢 Mesajlar 24 saat sonra silinecektir";
+
 "menu_copy" = "Kopyala";
 "menu_copy_url" = "Bağlantıyı kopyala";
 "menu_more" = "Daha fazla";
@@ -333,6 +338,7 @@
 "share_to_successed" = "Paylaşıldı!";
 "share_no_found_mutual" = "Birbirinizi takip ettiğiniz bir kişi bulunamadı";
 "share_to_twitter" = "#Shou'da CANLI olarak %@ izleyin: %@ %@";
+"share_moments_to_twitter" = "#Shou'da %@ ANLARINI izleyin: %@";
 
 "spotlight_content" = "Shou'da CANLI olarak %@ izleyin";
 
@@ -343,7 +349,7 @@
 "notification_push_message" = "💬 %@: %@";
 "notification_push_moment_upload" = "🔥 %@ yeni bir an yükledi";
 "notification_push_moment_like" = "❤️ %@ anını beğendi";
-"notification_push_moment_share" = "💬 %@ shared a moment with you";
+"notification_push_moment_share" = "💬 %@ seninle bir anını paylaştı";
 
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
@@ -374,7 +380,7 @@
 
 "badge_claim_reward" = "%d tane bedava coin edinin";
 "badge_claim_reward_success_message" = "%d coin'in oldu!";
- 
+
 "moment_import_title" = "Bir oyun videosu seç";
 "moment_edit_title" = "Düzenle";
 "moment_file_unavailable" = "Video dosyası bozuk, lütfen farklı bir oyun videosu seçin.";
@@ -383,4 +389,4 @@
 "moment_upload_success" = "Video başarıyla karşıya yüklendi";
 "moment_upload_progress" = "Karşıya yükleniyor...";
 "moment_upload_preparing" = "Hazırlanıyor...";
-"moments_title" = "Anlar";
+"moments_title" = "ANLAR";

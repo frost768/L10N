@@ -288,6 +288,7 @@
     <string name="video_quality_source">Kaynak</string>
     <string name="video_quality_low">Düşük</string>
     <string name="video_duration_placement">0:00</string>
+    <string name="video_gallery_no_video_text">Video yok</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
     <string name="no_capture_screen_permission">Ekranı kaydetme izni gereklidir</string>
@@ -305,7 +306,6 @@
     <string name="notification_push_like_multi_title_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_cash_content_me">%s Coin bağış yaptın</string>
-    <string name="fragment_dialog_shoucash_generating">Coinler oluşturuluyor...</string>
     <string name="send_cash_info">Coin Nedir?</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
@@ -443,6 +443,7 @@
     <string name="toast_fragment_verify_email_binding_email_loading">E-posta Hesaba Bağlanıyor &#8230;</string>
     <string name="msg_mute_description_manager">%s yayıncı ile konuşamayacak ve mesaj gönderemeyecek.</string>
     <string name="fragment_show_email_account_email_label_verified">E-postanız doğrulandı %s</string>
+    <string name="fragment_dialog_shoucash_generating">Coinler Oluşturuluyor...</string>
     <string name="fragment_dialog_shoucash_what_shoucash">Coin Nedir?</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify hatası</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify bilinmeyen hata</string>
@@ -517,4 +518,9 @@
     <string name="toast_fyber_timeout">Coinler birkaç dakika içerisinde hesabınıza yüklenecektir.</string>
     <string name="toast_fyber_failure">Reklam gösterilemedi.</string>
     <string name="activity_account_modify_username_lose_verify">İsminizi değiştirirseniz hesabınız doğruluğunu yitirecektir</string>
+    <string name="activity_video_menu_copy">Bağlantıyı Kopyala</string>
+    <string name="activity_video_menu_delete">Sil</string>
+    <string name="activity_video_menu_cancel">İptal</string>
+    <string name="activity_moment_title">ANLAR</string>
+
 </resources>
