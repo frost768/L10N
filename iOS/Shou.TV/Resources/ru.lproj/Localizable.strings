@@ -369,3 +369,7 @@
 
 "activity_screen_streaming_retry" = "Повторить";
 "activity_network_error" = "Ошибка подключения к сети ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Повторить";
+"activity_button_login" = "Войти";
+"activity_button_follow" = "Recommendation";

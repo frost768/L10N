@@ -333,3 +333,7 @@
 
 "activity_screen_streaming_retry" = "ลองอีกครั้ง";
 "activity_network_error" = "ข้อผิดพลาดการเชื่อมต่อเครือข่าย ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "ลองอีกครั้ง";
+"activity_button_login" = "ลงชื่อเข้าใช้";
+"activity_button_follow" = "Recommendation";

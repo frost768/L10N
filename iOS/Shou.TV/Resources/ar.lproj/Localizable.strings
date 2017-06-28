@@ -345,3 +345,8 @@
 "rate_tip" = "ما رأيك في تطبيقنا؟";
 "rate_feedback" = "من فضلك شارك تقييمك للتطبيق على متجر جوجل بلاي بالضغط على \"مواصلة\"!";
 "rate_continue" = "من فضلك أرسل لنا تعليقك حول التطبيق بالضغط على \"مواصلة\"!";
+
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Retry";
+"activity_button_login" = "تسجيل الدخول";
+"activity_button_follow" = "Recommendation";

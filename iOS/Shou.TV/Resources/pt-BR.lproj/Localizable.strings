@@ -322,3 +322,7 @@
 
 "activity_screen_streaming_retry" = "Tentar novamente";
 "activity_network_error" = "Erro na conexão com a rede ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Tentar novamente";
+"activity_button_login" = "Entrar";
+"activity_button_follow" = "Recommendation";

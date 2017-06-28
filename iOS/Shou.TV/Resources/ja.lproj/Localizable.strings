@@ -324,3 +324,7 @@
 
 "activity_screen_streaming_retry" = "再試行";
 "activity_network_error" = "ネットワークエラー ~";
+"activity_hint_welcome" = "Shou へようこそ";
+"activity_button_retry" = "再試行";
+"activity_button_login" = "ログイン";
+"activity_button_follow" = "おすすめ";

@@ -333,3 +333,7 @@
 
 "activity_screen_streaming_retry" = "Thử lại";
 "activity_network_error" = "Lỗi kết nối mạng ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Thử lại";
+"activity_button_login" = "Đăng nhập";
+"activity_button_follow" = "Recommendation";

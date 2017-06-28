@@ -387,6 +387,10 @@
 
 "activity_screen_streaming_retry" = "重試";
 "activity_network_error" = "網路異常~";
+"activity_hint_welcome" = "歡迎來到 Shou";
+"activity_button_retry" = "刷新頁面";
+"activity_button_login" = "前往登入";
+"activity_button_follow" = "前往關注";
 
 "today_btn_moreinshou" = "在Shou.TV顯示更多";
 "today_btn_login" = "加入Shou.TV";

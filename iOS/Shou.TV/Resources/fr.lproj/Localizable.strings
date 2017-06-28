@@ -351,3 +351,7 @@
 
 "activity_screen_streaming_retry" = "Réessayer";
 "activity_network_error" = "Erreur de connexion ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Réessayer";
+"activity_button_login" = "Se connecter";
+"activity_button_follow" = "Recommendation";

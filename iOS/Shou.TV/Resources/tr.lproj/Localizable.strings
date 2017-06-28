@@ -389,6 +389,10 @@
 
 "activity_screen_streaming_retry" = "Tekrar dene";
 "activity_network_error" = "Ağ hatası ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Tekrar dene";
+"activity_button_login" = "Giriş Yap";
+"activity_button_follow" = "Recommendation";
 
 "today_btn_moreinshou" = "Shou.TV'de daha fazlasını göster";
 "today_btn_login" = "Shou.TV'ye giriş yap";
