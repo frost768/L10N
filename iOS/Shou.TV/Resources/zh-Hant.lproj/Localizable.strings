@@ -88,6 +88,7 @@
 "landing_btn_forgot_password" = "忘記密碼？";
 "landing_placeholder_email" = "Email";
 "landing_placeholder_username_or_email" = "用戶名 或 Email";
+"landing_placeholder_password" = "密碼";
 "landing_text_agree" = "繼續使用即表示您同意 %@ 與 %@";
 "landing_text_privacy_policy" = "我們不會公開你的 Email ，閱讀我們的 %@ 來了解詳情。";
 "landing_text_invalid_verification_code" = "驗證碼無效";

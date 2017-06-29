@@ -89,6 +89,7 @@
 "landing_btn_forgot_password" = "Forgot your password?";
 "landing_placeholder_email" = "Email";
 "landing_placeholder_username_or_email" = "Username or Email";
+"landing_placeholder_password" = "Password";
 "landing_text_agree" = "By proceeding, you agree to the %@ and %@";
 "landing_suggest_title" = "Suggested Follows";
 "landing_text_privacy_policy" = "we will never display your email publicly, read our %@ to learn more.";
