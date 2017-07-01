@@ -57,7 +57,6 @@
 "profile_text_games" = "Games";
 "profile_text_logout" = "Log Out";
 "profile_text_options" = "Options";
-"profile_text_badges" = "BADGES";
 "profile_text_achievements" = "ACHIEVEMENTS";
 "profile_text_top_followers" = "TOP FOLLOWERS";
 
@@ -69,20 +68,46 @@
 "landing_btn_email" = "Sign up with Email";
 "landing_btn_email_log_in" = "Log in with Email or Username";
 "landing_btn_phone" = "Continue with phone number";
-"landing_btn_log_in_tip" = "Have an Account? Log in";
 "landing_btn_more" = "More";
 "landing_btn_sign_up" = "Sign up";
-"landing_btn_sign_in" = "Log in";
+"landing_btn_log_in" = "Log in";
+"landing_btn_term" = "Terms of Service";
+"landing_btn_privacy" = "Privacy Policy";
+"landing_btn_switch_to_login" = "Have an account? Log in";
+"landing_btn_send_code" = "Send me verification code via Email";
+"landing_btn_send_via_email" = "Send via Email";
+"landing_btn_send_again" = "Send again";
+"landing_btn_correct_email" = "Mistyped email?";
 "landing_btn_skip" = "Skip";
 "landing_btn_next" = "Next";
 "landing_google_plus_sign_in_progress" = "Log in with Google Plus";
 "landing_facebook_sign_in_progress" = "Log in with Facebook";
 "landing_twitter_sign_in_progress" = "Log in with Twitter";
 "landing_phone_sign_in_progress" = "Log in with phone number";
+"landing_btn_pick_from_library" = "Choose photo as avatar";
+"landing_btn_pick_from_camera" = "Take photo as avatar";
+"landing_btn_forgot_password" = "Forgot your password?";
+"landing_placeholder_email" = "Email";
+"landing_placeholder_username_or_email" = "Username or Email";
+"landing_placeholder_password" = "Password";
 "landing_text_agree" = "By proceeding, you agree to the %@ and %@";
-"landing_text_agree_term" = "Terms of Service";
-"landing_text_agree_privacy" = "Privacy Policy";
 "landing_suggest_title" = "Suggested Follows";
+"landing_text_privacy_policy" = "we will never display your email publicly, read our %@ to learn more.";
+"landing_text_invalid_verification_code" = "Invalid verification code";
+"landing_title_sign_up" = "Sign up";
+"landing_title_log_in" = "Log in";
+"landing_title_send_code" = "We will send a verification code to %@";
+"landing_title_verification_code" = "verification code";
+"landing_title_set_an_avatar" = "Set an avatar";
+"landing_title_pick_fullname" = "What's your name";
+"landing_title_pick_username" = "Pick an username";
+"landing_title_set_password" = "Set a password";
+"landing_hint_enter_code" = "Please enter the 4 digit verification code in next screen to verify your email.";
+"landing_hint_code_is_sent" = "We have sent a verification code to %@ via email";
+"landing_hint_send_code_again" = "Send me verification code again %@s";
+"landing_hint_permission" = "Shou needs to open your album or camera Permissions for Avatar settings";
+"landing_hint_irreplaceable" = "you can always change it later";
+"landing_hint_username_is_unique" = "your username is unique. You can always change it later";
 
 "account_text_user_views" = "%@ views";
 "account_text_user_likes" = "%@ likes";
@@ -366,6 +391,10 @@
 
 "activity_screen_streaming_retry" = "Retry";
 "activity_network_error" = "Network connection error ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Retry";
+"activity_button_login" = "Login";
+"activity_button_follow" = "Recommendation";
 
 "today_btn_moreinshou" = "Show more in Shou.TV";
 "today_btn_login" = "Log in Shou.TV";
@@ -377,9 +406,6 @@
 
 "broadcasts_time_remaining" = "%@ hours remaining";
 "broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";
-
-"badge_claim_reward" = "Get %d free coins";
-"badge_claim_reward_success_message" = "You've got %d coins!";
 
 "moment_import_title" = "Choose a game video";
 "moment_edit_title" = "Edit";

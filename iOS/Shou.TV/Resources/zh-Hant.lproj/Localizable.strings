@@ -56,7 +56,6 @@
 "profile_text_games" = "遊戲";
 "profile_text_logout" = "登出";
 "profile_text_options" = "帳號設定";
-"profile_text_badges" = "徽章";
 "profile_text_achievements" = "成就";
 "profile_text_top_followers" = "粉絲榜";
 
@@ -68,20 +67,45 @@
 "landing_btn_email" = "透過電子郵件註冊";
 "landing_btn_email_log_in" = "透過電子郵件登入";
 "landing_btn_phone" = "透過手機號碼登入";
-"landing_btn_log_in_tip" = "已經有帳號了？登入";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "註冊";
-"landing_btn_sign_in" = "登入";
+"landing_btn_log_in" = "登入";
+"landing_btn_term" = "服務條款";
+"landing_btn_privacy" = "隱私政策";
+"landing_btn_switch_to_login" = "已經有帳號了？登入";
+"landing_btn_send_code" = "透過 Email 發送驗證碼";
+"landing_btn_send_via_email" = "透過 Email 發送";
+"landing_btn_send_again" = "重新發送";
+"landing_btn_correct_email" = "更正 Email?";
 "landing_btn_skip" = "略過";
 "landing_btn_next" = "下一步";
 "landing_google_plus_sign_in_progress" = "正在用 Google 登入";
 "landing_facebook_sign_in_progress" = "正在用 Facebook 登入";
 "landing_twitter_sign_in_progress" = "正在用 Twitter 登入";
 "landing_phone_sign_in_progress" = "正在用手機號碼登入";
+"landing_btn_pick_from_library" = "選擇照片作為頭像";
+"landing_btn_pick_from_camera" = "拍照作為頭像";
+"landing_btn_forgot_password" = "忘記密碼？";
+"landing_placeholder_email" = "Email";
+"landing_placeholder_username_or_email" = "用戶名 或 Email";
+"landing_placeholder_password" = "密碼";
 "landing_text_agree" = "繼續使用即表示您同意 %@ 與 %@";
-"landing_text_agree_term" = "服務條款";
-"landing_text_agree_privacy" = "隱私政策";
-"landing_suggest_title" = "推薦追蹤";
+"landing_text_privacy_policy" = "我們不會公開你的 Email ，閱讀我們的 %@ 來了解詳情。";
+"landing_text_invalid_verification_code" = "驗證碼無效";
+"landing_title_sign_up" = "註冊";
+"landing_title_log_in" = "登入";
+"landing_title_send_code" = "我們將通過 Email 給 %@ 發送驗證碼";
+"landing_title_verification_code" = "驗證碼";
+"landing_title_set_an_avatar" = "設置頭像";
+"landing_title_pick_fullname" = "您的昵稱";
+"landing_title_pick_username" = "設置用戶名";
+"landing_title_set_password" = "設置密碼";
+"landing_hint_enter_code" = "收到郵件後，請在下個頁面輸入 4 位驗證碼完成你的 Email 驗證。";
+"landing_hint_code_is_sent" = "我們已經透過郵件給 %@ 發送了驗證碼";
+"landing_hint_send_code_again" = "%@ 秒後重新發送";
+"landing_hint_permission" = "Shou 需要相冊和攝像頭許可權來設置頭像";
+"landing_hint_irreplaceable" = "您可以隨時更改它";
+"landing_hint_username_is_unique" = "您的用戶名是唯一的，您可以隨時更改它。";
 
 "account_text_user_views" = "%@ 觀看";
 "account_text_user_likes" = "%@ 喜歡";
@@ -364,6 +388,10 @@
 
 "activity_screen_streaming_retry" = "重試";
 "activity_network_error" = "網路異常~";
+"activity_hint_welcome" = "歡迎來到 Shou";
+"activity_button_retry" = "刷新頁面";
+"activity_button_login" = "前往登入";
+"activity_button_follow" = "前往關注";
 
 "today_btn_moreinshou" = "在Shou.TV顯示更多";
 "today_btn_login" = "加入Shou.TV";
@@ -375,9 +403,6 @@
 
 "broadcasts_time_remaining" = "剩餘 %@ 小時";
 "broadcasts_tips" = "📢 影片將在 24 小時後被刪除";
-
-"badge_claim_reward" = "取得 %d 個免費的金幣";
-"badge_claim_reward_success_message" = "你取得了 %d 個金幣！";
 
 "moment_import_title" = "選擇一個遊戲視頻";
 "moment_edit_title" = "編輯";

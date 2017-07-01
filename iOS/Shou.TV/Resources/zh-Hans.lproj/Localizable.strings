@@ -56,7 +56,6 @@
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
 "profile_text_options" = "账号设置";
-"profile_text_badges" = "徽章";
 "profile_text_achievements" = "成就";
 "profile_text_top_followers" = "粉丝榜";
 
@@ -68,20 +67,45 @@
 "landing_btn_email" = "通过 Email 注册";
 "landing_btn_email_log_in" = "通过 Email 或用户名登录";
 "landing_btn_phone" = "通过手机号登录";
-"landing_btn_log_in_tip" = "已经有账号了？ 登录";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "注册";
-"landing_btn_sign_in" = "登录";
+"landing_btn_log_in" = "登录";
+"landing_btn_term" = "服务条款";
+"landing_btn_privacy" = "隐私政策";
+"landing_btn_switch_to_login" = "已经有账号了？登录";
+"landing_btn_send_code" = "通过 Email 发送验证码";
+"landing_btn_send_via_email" = "通过 Email 发送";
+"landing_btn_send_again" = "重新发送";
+"landing_btn_correct_email" = "更正 Email?";
 "landing_btn_skip" = "跳过";
 "landing_btn_next" = "下一步";
 "landing_google_plus_sign_in_progress" = "正在用 Google 登录";
 "landing_facebook_sign_in_progress" = "正在用 Facebook 登录";
 "landing_twitter_sign_in_progress" = "正在用 Twitter 登录";
 "landing_phone_sign_in_progress" = "正在用手机号登录";
-"landing_text_agree" = "继续使用即表示你同意%@和%@";
-"landing_text_agree_term" = "服务条款";
-"landing_text_agree_privacy" = "隐私政策";
-"landing_suggest_title" = "推荐关注";
+"landing_btn_pick_from_library" = "选择照片作为头像";
+"landing_btn_pick_from_camera" = "拍照作为头像";
+"landing_btn_forgot_password" = "忘记密码？";
+"landing_placeholder_email" = "Email";
+"landing_placeholder_username_or_email" = "用户名 或 Email";
+"landing_placeholder_password" = "密码";
+"landing_text_agree" = "继续使用即表示你同意 %@ 和 %@ ";
+"landing_text_privacy_policy" = "我们不会公开你的 Email ，阅读我们的 %@ 来了解详情。";
+"landing_text_invalid_verification_code" = "验证码无效";
+"landing_title_sign_up" = "注册";
+"landing_title_log_in" = "登录";
+"landing_title_send_code" = "我们将通过 Email 给 %@ 发送验证码";
+"landing_title_verification_code" = "验证码";
+"landing_title_set_an_avatar" = "设置头像";
+"landing_title_pick_fullname" = "你的昵称";
+"landing_title_pick_username" = "设置用户名";
+"landing_title_set_password" = "设置密码";
+"landing_hint_enter_code" = "收到邮件后，请在下个页面输入 4 位验证码完成你的 Email 验证。";
+"landing_hint_code_is_sent" = "我们已经通过邮件给 %@ 发送了验证码";
+"landing_hint_send_code_again" = "%@ 秒后重新发送";
+"landing_hint_permission" = "Shou 需要相册和摄像头权限来设置头像";
+"landing_hint_irreplaceable" = "你可以随时更改它";
+"landing_hint_username_is_unique" = "你的用户名是唯一的，你可以随时更改它。";
 
 "account_text_user_views" = "%@ 观看";
 "account_text_user_likes" = "%@ 喜欢";
@@ -366,6 +390,10 @@
 
 "activity_screen_streaming_retry" = "重试";
 "activity_network_error" = "网络异常~";
+"activity_hint_welcome" = "欢迎来到 Shou";
+"activity_button_retry" = "刷新页面";
+"activity_button_login" = "前往登录";
+"activity_button_follow" = "前往关注";
 
 "today_btn_moreinshou" = "在Shou.TV显示更多";
 "today_btn_login" = "加入Shou.TV";
@@ -377,9 +405,6 @@
 
 "broadcasts_time_remaining" = "剩余 %@ 小时";
 "broadcasts_tips" = "📢 视频将在 24 小时后被删除";
-
-"badge_claim_reward" = "获得 %d 个免费的金币";
-"badge_claim_reward_success_message" = "你获得了 %d 个金币！";
 
 "moment_import_title" = "选择一个游戏视频";
 "moment_edit_title" = "编辑";

@@ -57,7 +57,6 @@
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_options" = "Ayarlar";
-"profile_text_badges" = "MADALYALAR";
 "profile_text_achievements" = "BAŞARILAR";
 "profile_text_top_followers" = "EN İYİ TAKİPÇİLER";
 
@@ -68,21 +67,46 @@
 "landing_btn_google" = "Google ile devam et";
 "landing_btn_email" = "Email ile kaydol";
 "landing_btn_email_log_in" = "Email ile giriş yap";
-"landing_btn_log_in_tip" = "Hesabınız mı var? Giriş yapın";
 "landing_btn_phone" = "Telefon numarası ile devam et";
 "landing_btn_more" = "Daha fazla";
 "landing_btn_sign_up" = "Kaydol";
-"landing_btn_sign_in" = "Giriş Yap";
+"landing_btn_log_in" = "Giriş Yap";
+"landing_btn_term" = "Hizmet Şartları";
+"landing_btn_privacy" = "Gizlilik Politikası";
+"landing_btn_switch_to_login" = "Hesabınız mı var? Giriş yapın";
+"landing_btn_send_code" = "Send me verification code via Email";
+"landing_btn_send_via_email" = "Send via Email";
+"landing_btn_send_again" = "Send again";
+"landing_btn_correct_email" = "Mistyped email?";
 "landing_btn_skip" = "Geç";
 "landing_btn_next" = "Sonraki";
 "landing_google_plus_sign_in_progress" = "Google Plus ile giriş yap";
 "landing_facebook_sign_in_progress" = "Facebook ile giriş yap";
 "landing_twitter_sign_in_progress" = "Twitter ile giriş yap";
+"landing_btn_pick_from_library" = "Choose photo as avatar";
+"landing_btn_pick_from_camera" = "Take photo as avatar";
+"landing_btn_forgot_password" = "Forgot your password?";
+"landing_placeholder_email" = "Email";
+"landing_placeholder_username_or_email" = "Username or Email";
+"landing_placeholder_password" = "Password";
 "landing_text_agree" = "Devam etmekle, %@ ve %@'nı kabul etmiş olursunuz";
-"landing_text_agree" = "İlerleyerek, %@ ve %@ kabul etmiş oluyorsunuz";
-"landing_text_agree_term" = "Hizmet Şartları";
-"landing_text_agree_privacy" = "Gizlilik Politikası";
 "landing_suggest_title" = "Önerilen Takipler";
+"landing_text_privacy_policy" = "we will never display your email publicly, read our %@ to learn more.";
+"landing_text_invalid_verification_code" = "Invalid verification code";
+"landing_title_sign_up" = "Kaydol";
+"landing_title_log_in" = "Giriş Yap";
+"landing_title_send_code" = "We will send a verification code to %@";
+"landing_title_verification_code" = "verification code";
+"landing_title_set_an_avatar" = "Set an avatar";
+"landing_title_pick_fullname" = "What's your name";
+"landing_title_pick_username" = "Pick an username";
+"landing_title_set_password" = "Set a password";
+"landing_hint_enter_code" = "Please enter the 4 digit verification code in next screen to verify your email.";
+"landing_hint_code_is_sent" = "We have sent a verification code to %@ via email";
+"landing_hint_send_code_again" = "Send me verification code again %@s";
+"landing_hint_permission" = "Shou needs to open your album or camera Permissions for Avatar settings";
+"landing_hint_irreplaceable" = "you can always change it later";
+"landing_hint_username_is_unique" = "your username is unique. You can always change it later";
 
 "account_text_user_views" = "%@ görüntüleme";
 "account_text_user_likes" = "%@ beğeni";
@@ -366,6 +390,10 @@
 
 "activity_screen_streaming_retry" = "Tekrar dene";
 "activity_network_error" = "Ağ hatası ~";
+"activity_hint_welcome" = "Welcome to Shou";
+"activity_button_retry" = "Tekrar dene";
+"activity_button_login" = "Giriş Yap";
+"activity_button_follow" = "Recommendation";
 
 "today_btn_moreinshou" = "Shou.TV'de daha fazlasını göster";
 "today_btn_login" = "Shou.TV'ye giriş yap";
@@ -377,9 +405,6 @@
 
 "broadcasts_time_remaining" = "%@ saat kaldı";
 "broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
-
-"badge_claim_reward" = "%d tane bedava coin edinin";
-"badge_claim_reward_success_message" = "%d coin'in oldu!";
 
 "moment_import_title" = "Bir oyun videosu seç";
 "moment_edit_title" = "Düzenle";
